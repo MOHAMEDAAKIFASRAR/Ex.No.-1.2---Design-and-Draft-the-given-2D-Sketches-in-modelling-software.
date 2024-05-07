@@ -1,8 +1,5 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
-## NAME:MOHAMED AAKIF ASRAR S
-## REG NO:212223240088
-
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
  
